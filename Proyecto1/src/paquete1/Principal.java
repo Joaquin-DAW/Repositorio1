@@ -7,6 +7,6 @@ public class Principal {
 		System.out.println("Control de versiones de ejemplo");
 		
 		System.out.println("Segundo mensaje");
-		//Comentario para probar remoto
+		//Comentario para probar remoto.
 	}
 }
